@@ -1,0 +1,2 @@
+# UB BHC Digital Arhive
+The Batangas Heritage Center Digital Archives is a website that aims to preserve the cultural heritage of the University of Batangas BHC through the process of digital archiving.
